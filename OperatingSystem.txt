@@ -1,0 +1,81 @@
+#https://docs.google.com/document/d/1QwJwTH85QtxIOq-mRb3kPequDnD5qy54HS_UU_hEbOw/edit
+#
+What happens when you press the ON button on your laptop?
+What is Operating System ? Why do we need it ?
+Different Types of Operating Systems ?
+Major Differences  :
+
+RAM
+ROM
+Thread
+Process
+SRAM
+DRAM
+PROM
+EPROM / EEPROM
+Multiprocessing
+Multiprogramming
+Multitasking
+MultiThreading
+
+
+Difference between a Process and Thread with example.
+What is a Process and Thread ?
+Terms in Process Scheduling - Arrival Time ,Completion Time , Burst Time, Turn Around Time , Waiting Time (WT)
+What is fork()? User and Kernal Threads.
+Scheduling Algorithms :
+ First Come First Serve (FCFS)
+ Shortest Job First (SJF)
+ Shortest Remaining Time First (SRTF)
+ Round Robin (RR) Scheduling
+ Priority Based scheduling (Non Preemptive)
+ Highest Response Ratio Next (HRRN)
+ Multilevel Queue Scheduling (MLQ)
+
+What is Critical Section Problem and Race Around Condition ?
+Mutual Exclusion and Bounded Waiting in Operating Systems?
+What are Semaphores ? Types of Semaphores ?
+What is Mutex ?
+Differences between Mutex and Semaphore . Use Cases as well.
+Deadlock and necessary conditions for deadlock to happen? Detailed.
+How to handle a deadlock?
+Banker’s Algorithm and its use case.
+Memory Management 
+Partition Schemes - Best Fit , First Fit , Worst Fit
+What is Paging and its need ?
+What is Segmentation and its need ?
+Difference between Paging and Segmentation ?
+Why does a page fault occur?
+Major Page Replacement Algorithms 
+Definitions : Logical address space , LBA , Spooling , Starvation , Aging ,Virtual Memory
+FIFO
+Optimal Page Replacement Algorithm
+Least Recently Used (Along with Code) - VV Imp.
+
+      27.Disk Scheduling and Terms associated - Seek Time , Rotational Latency, Transfer Time ,                            Disk Access Time ,Disk Response Time.
+      28. Disk Scheduling Algorithms - FCFS , SSTF , SCAN , CSCAN , LOOK , CLOOK
+      29. What is Thrashing ?
+      Resources to Prepare :
+
+Detailed Book Recommendation : GALVIN - Wiley
+
+1.Bed Time Stories with OS : https://drive.google.com/file/d/1BMtW2e2Lm-ngAhAssicyN4lFq5InLJ6j/view?usp=sharing
+
+2. GFG Last Minute Notes : https://www.geeksforgeeks.org/last-minute-notes-operating-systems/
+
+
+3. Video PlayList :
+https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p
+
+4. InterviewBit Document : https://drive.google.com/file/d/1-2aR5Jq1YVAB8hrrsdFxTJqGExgop8Ms/view
+
+5. Handwritten notes for College Exams :
+https://drive.google.com/file/d/1tuK9UFCXtVDyfYyTKzhOcOoTt8wf2H5y/view?usp=sharing
+
+https://drive.google.com/file/d/1Kk_LC3EcOdDfRGulZ8Ow1ocJa5ejBI9D/view?usp=sharing
+
+
+
+
+
+
